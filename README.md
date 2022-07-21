@@ -18,3 +18,5 @@ java ConventionalDeflater.java filenamesrc filenamedest
 java ConventionalInflater.java filenamesrc filenamedest
 
 PS.This is my first repo
+
+Also see [cNBT](https://github.com/chmod222/cNBT)
